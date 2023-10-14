@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background: #E4D3B7;
+}
+  .container{
+  display: grid;
+     justify-content: center;  
+    align-items: center;   
+    margin: auto;  
+   margin-top: 19%; 
+}  
+.container ul{
+  margin-left: 25px;
+  padding-top: 5px;
+  color: #767672;
+}
+.ree{
+    /* border: none;  */
+  margin-left: 37%;
+  color: #767672;
+  cursor: pointer;
+}
+.hit{
+  display: none;
+}
